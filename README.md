@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @artrazzaq
+- 👋 Hi, I’m Raihan Arrazzaq
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Modding stuff
 - 💞️ I’m looking to collaborate on ...
